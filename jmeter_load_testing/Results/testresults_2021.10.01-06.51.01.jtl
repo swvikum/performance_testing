@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1634103221711,2945,POST_RecommendationMainItem,200,OK,Orders 1-1,text,true,,1923,601,1,1,https://mobile.incentivio.com/incentivio-mobile-api/ml/mobile/user/basket,2945,0,2348
